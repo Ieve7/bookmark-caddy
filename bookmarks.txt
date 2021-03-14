@@ -1,0 +1,5 @@
+#News
+Ycombinator, https://news.ycombinator.com/
+#Python
+DearPyGui Wiki, https://github.com/hoffstadt/DearPyGui/wiki
+DearPyGui API, https://hoffstadt.github.io/DearPyGui/index.html

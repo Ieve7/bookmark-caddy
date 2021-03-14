@@ -1,0 +1,2 @@
+dearpygui==0.6.268
+youtube-dl==2021.3.14
